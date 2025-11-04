@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Nov 2025 15:50:18 at https://procarni.com.ve/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://procarni.com.ve/ -O1 "C:\Mis lugares Web\procarni-stati" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:51:09	Error: 	"Not Found" (404) at link https://procarni.com.ve/cdn-cgi/l/email-protection (from https://procarni.com.ve/)
+15:51:10	Warning: 	Moved Permanently for https://procarni.com.ve/?p=33
+15:51:10	Warning: 	File has moved from https://procarni.com.ve/?p=33 to https://procarni.com.ve/about/
+15:51:10	Warning: 	Moved Permanently for https://procarni.com.ve/?p=34
+15:51:10	Warning: 	File has moved from https://procarni.com.ve/?p=34 to https://procarni.com.ve/service/
+15:51:10	Warning: 	Moved Permanently for https://procarni.com.ve/?p=1165
+15:51:10	Warning: 	File has moved from https://procarni.com.ve/?p=1165 to https://procarni.com.ve/marcas-2/
+15:51:28	Warning: 	Moved Permanently for https://procarni.com.ve/?p=35
+15:51:28	Warning: 	File has moved from https://procarni.com.ve/?p=35 to https://procarni.com.ve/contact/
+15:51:28	Error: 	"Too Many Requests" (429) at link https://procarni.com.ve/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprocarni.com.ve%2Fcontact%2F&format=xml (from https://procarni.com.ve/contact/)
+15:51:28	Error: 	"Too Many Requests" (429) at link https://procarni.com.ve/wp-json/wp/v2/pages/1174 (from https://procarni.com.ve/vicosa/)
+15:51:28	Error: 	"Too Many Requests" (429) at link https://procarni.com.ve/?p=1174 (from https://procarni.com.ve/vicosa/)
+15:51:28	Error: 	"Too Many Requests" (429) at link https://procarni.com.ve/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprocarni.com.ve%2Fvicosa%2F (from https://procarni.com.ve/vicosa/)
+15:51:28	Error: 	"Too Many Requests" (429) at link https://procarni.com.ve/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprocarni.com.ve%2Fvicosa%2F&format=xml (from https://procarni.com.ve/vicosa/)
+15:51:28	Error: 	"Too Many Requests" (429) at link https://procarni.com.ve/wp-json/wp/v2/pages/1188 (from https://procarni.com.ve/don-vincenzo/)
+15:51:28	Error: 	"Too Many Requests" (429) at link https://procarni.com.ve/?p=1188 (from https://procarni.com.ve/don-vincenzo/)
+15:51:28	Error: 	"Too Many Requests" (429) at link https://procarni.com.ve/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprocarni.com.ve%2Fdon-vincenzo%2F (from https://procarni.com.ve/don-vincenzo/)
+15:51:28	Error: 	"Too Many Requests" (429) at link https://procarni.com.ve/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprocarni.com.ve%2Fdon-vincenzo%2F&format=xml (from https://procarni.com.ve/don-vincenzo/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 11 seconds : 126 links scanned, 111 files written (53999908 bytes overall) [49573281 bytes received at 698215 bytes/sec], 5161609 bytes transferred using HTTP compression in 75 files, ratio 11%, 18.0 requests per connection
+(10 errors, 8 warnings, 0 messages)
